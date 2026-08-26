@@ -114,7 +114,7 @@ Celeste (Open World):
             cardinal_restrictive: 5
             octal: 5
           climb_shuffle: # NOTE: This is always off on the Developed Intended difficulty
-            none: 4
+            none: 2
             unified: 2
             split: 1
           crouch_shuffle:
