@@ -109,16 +109,16 @@ Celeste (Open World):
       options:
         Celeste (Open World):
           dash_shuffle:
-            unified: 20
+            unified: 0
             cardinal_loose: 10
             cardinal_restrictive: 5
             octal: 5
           climb_shuffle: # NOTE: This is always off on the Developed Intended difficulty
             none: 4
-            unified: 1
+            unified: 2
             split: 1
           crouch_shuffle:
-            'false': 50
+            'false': 1
             'true': 0
     - option_category: null
       option_name: name
