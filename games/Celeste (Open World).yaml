@@ -42,6 +42,7 @@ Celeste (Open World):
       option_result: the_summit_a
       options:
         Celeste (Open World):
+          logic_difficulty: developer_intended
           include_core: false
           include_b_sides: false
           include_c_sides: false
