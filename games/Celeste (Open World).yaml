@@ -24,7 +24,9 @@ Celeste (Open World):
     per_level: 15
     per_side: 5
     per_level_and_side: 20
-  movement_shuffle: random
+  movement_shuffle:
+    "true": 1
+    "false": 3
   logic_difficulty:
     developer_intended: 3
     vanilla_movement: 1
