@@ -31,6 +31,7 @@ Celeste (Open World):
     assist_mode: 0
   include_goldens: false
   include_farewell: none
+  reduce_raspberries: true
 
   local_items:
     - Strawberry
